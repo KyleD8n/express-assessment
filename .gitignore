@@ -1,0 +1,34 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Distribution directories
+dist/
+build/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.class
+*.DS_Store
+*.iml
+*.npm-debug.log
+*.orig
+*.swp
+*.tgz
+*.zip
